@@ -15,8 +15,6 @@
 
 [Os componentes foram organizados na seguinte arquitetura:] 
 
-![alt text](./img/combustiveis_brasil.png)
-
 ![image](https://user-images.githubusercontent.com/65022440/216410908-e976bf9b-0e12-4d16-88cd-e34f378264b7.png)
 
 [Instruções para executar aplicação/projeto]
