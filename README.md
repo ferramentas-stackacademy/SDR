@@ -1,18 +1,17 @@
 # Stack Academy
 
-### [Nome do Curso]
+### Sistemas de Recomendação
 
 [objetivo do curso]
 
 - [**Fonte de Dados:** ]
-  - xxx
-  - xxx
+  - Todos os links das bases utilizadas se encontram no slide!
 
 [Para este projeto, foram usados as seguintes tecnologias: ]
 
-- **AWS**: Ambiente de computação em nuvem;
-- **Github**: Para criar uma esteira de CI/CD para fazer o deploy automatizado dos recursos do projeto, auxiliando o Terraform;
-- **...**: ...;
+- **Python**: Linguagem de programação usada para desenvolver os sistemas de recomendação;
+- **Colab**: Ambiente usado para implementar os códigos usados no curso (também pode ser usado jupyter);
+- **DataBricks**: Ambiente usado para implementar os códigos em PySpark vistos no curso;
 
 [Os componentes foram organizados na seguinte arquitetura:] 
 
