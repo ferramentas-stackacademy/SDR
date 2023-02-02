@@ -1,23 +1,26 @@
 # Stack Academy
 
-### [Nome do Curso]
+### Sistemas de Recomendação
 
 [objetivo do curso]
 
 - [**Fonte de Dados:** ]
-  - xxx
-  - xxx
+  - Todos os links das bases utilizadas se encontram no slide!
 
 [Para este projeto, foram usados as seguintes tecnologias: ]
 
-- **AWS**: Ambiente de computação em nuvem;
-- **Github**: Para criar uma esteira de CI/CD para fazer o deploy automatizado dos recursos do projeto, auxiliando o Terraform;
-- **...**: ...;
+- **Python**: Linguagem de programação usada para desenvolver os sistemas de recomendação;
+- **Colab**: Ambiente usado para implementar os códigos usados no curso (também pode ser usado jupyter);
+- **DataBricks**: Ambiente usado para implementar os códigos em PySpark vistos no curso;
 
 [Os componentes foram organizados na seguinte arquitetura:] 
 
-![alt text](./img/combustiveis_brasil.png)
+![image](https://user-images.githubusercontent.com/65022440/216410908-e976bf9b-0e12-4d16-88cd-e34f378264b7.png)
 
 [Instruções para executar aplicação/projeto]
+- Assistir as aulas sobre cada método.
+- Baixe os notebooks e rode via jupyter ou faça uploads deles no colab.
+- Faça o download da base de dados usando os links no slide.
+- Adicione a base de dados as colocando no seu drive (caso use o colab) ou em alguma pasta no seu computador (caso use o jupyter). 
 
 
