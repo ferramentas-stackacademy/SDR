@@ -2,7 +2,8 @@
 
 ### Sistemas de Recomendação
 
-[objetivo do curso]
+- [**Objetivo do Curso:** ]
+  - Esse curso tem como objetivo introduzir aos espectadores a área de sistema de recomendação, uma área bem abrangente e complexa dentro da ciência de dados. Esse curso cobre a maioria dos conceitos dessa área e pontua os desafios que serão encontrados dentro de um projeto real de sistemas de recomendação. O curso foi preparado com conceitos teóricos e práticos para que o espectador consiga tirar o máximo proveito dele.
 
 - [**Fonte de Dados:** ]
   - Todos os links das bases utilizadas se encontram no slide!
