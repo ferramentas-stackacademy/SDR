@@ -16,7 +16,7 @@
 
 [Os componentes foram organizados na seguinte arquitetura:] 
 
-![image](https://user-images.githubusercontent.com/65022440/216418647-8090cd45-560c-43b0-aa38-f21cf9631819.png)
+![image](https://user-images.githubusercontent.com/65022440/216418810-41d6937a-e239-4d80-8d2f-4caa9520a040.png)
 
 [Instruções para executar aplicação/projeto]
 - Assistir as aulas sobre cada método.
